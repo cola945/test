@@ -1,2 +1,2 @@
 # test
-this is a descripion.
+this is a test repository for cola945's video.
